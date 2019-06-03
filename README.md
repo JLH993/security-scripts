@@ -1,6 +1,6 @@
 # security-scripts
 
-Example output to /var/log/reports/$REPORT:
+Example output to /var/log/reports/bf.060319.log:
 
 ```
 --------------------------------------------------
